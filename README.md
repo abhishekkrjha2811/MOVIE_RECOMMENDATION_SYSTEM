@@ -10,4 +10,4 @@
 
 2.pip install -r requirements.txt
 
-3.python movie_recommender.py
+3.streamlit run app.py
